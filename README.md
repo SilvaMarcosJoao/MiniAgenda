@@ -1,2 +1,2 @@
 # MiniAgenda
-MiniAgenda em python utilizando a manipulação básica de arquivos.
+MiniAgenda de contatos em python utilizando a manipulação básica de arquivos. 
